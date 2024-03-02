@@ -1,0 +1,32 @@
+## Vehicle Race ️
+This project is a thrilling command-line interface (CLI) racing game where you compete against others to reach the finish line first!
+
+### Installation
+1. Clone the repository:
+```bash
+git clone git@github.com:A-H-Pooladvand/vehicle-race.git
+```
+2. Install dependencies:
+```bash
+composer install
+```
+3. Configure environment:
+* Copy `.env.example` to `.env`
+* Update `.env` with your desired configuration values
+
+### Dependencies
+This project uses the following dependencies:
+
+* PHP ^8.3
+* ext-mbstring
+* wp-cli/php-cli-tools
+* php-di/php-di
+* vlucas/phpdotenv
+* symfony/filesystem
+* git clone git@github.com:A-H-Pooladvand/vehicle-race.git
+
+### Development Dependencies
+* larapack/dd
+
+#### Author
+Amirhossein Pooladvand (a.h.pooladvand@gmail.com)
