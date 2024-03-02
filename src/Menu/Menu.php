@@ -36,7 +36,7 @@ final class Menu
 
         // User didn't provide any command at all
         if ($this->args->isEmptyCommands() || $this->args->hasArgument('help')) {
-            $this->warn("You didn't provide a valid command, here is the list available commands:");
+            $this->warn("here is the list available commands:");
 
             echo $this->args->getHelpScreen();
 
