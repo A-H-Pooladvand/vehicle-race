@@ -23,7 +23,6 @@ This project uses the following dependencies:
 * php-di/php-di
 * vlucas/phpdotenv
 * symfony/filesystem
-* git clone git@github.com:A-H-Pooladvand/vehicle-race.git
 
 ### Development Dependencies
 * larapack/dd
