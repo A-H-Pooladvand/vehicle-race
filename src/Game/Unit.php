@@ -14,7 +14,7 @@ class Unit
         $this->value = $value;
     }
 
-    public function asKilometer(): int
+    public function asKilometer(): float
     {
         return $this->unit->convertTo(SpeedUnit::KM_H, $this->value);
     }
