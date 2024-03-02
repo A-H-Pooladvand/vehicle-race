@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+
+<?php
+
+use Src\Menu\Menu;
+
+require __DIR__."/vendor/autoload.php";
+
+require_once __DIR__."/public/bootstrap.php";
+
+container()->make(Menu::class)->start();
