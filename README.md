@@ -3,7 +3,7 @@ This project is a thrilling command-line interface (CLI) racing game where you c
 
 ### Installation
 1. Clone the repository:
-```bash
+```git
 git clone git@github.com:A-H-Pooladvand/vehicle-race.git
 ```
 2. Install dependencies:
