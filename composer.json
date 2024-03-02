@@ -8,7 +8,7 @@
       "Src\\": "src/"
     },
     "files": [
-      "src/functions/helper.php"
+      "src/Functions/helper.php"
     ]
   },
   "authors": [

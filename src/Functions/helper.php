@@ -1,6 +1,6 @@
 <?php
 
-use Src\app\Application;
+use Src\App\Application;
 use Src\Container\Container;
 
 if (!function_exists('container')) {

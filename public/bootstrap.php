@@ -1,7 +1,7 @@
 <?php
 
 use Dotenv\Dotenv;
-use Src\app\Application;
+use Src\App\Application;
 
 container()->set(
     Application::class,
