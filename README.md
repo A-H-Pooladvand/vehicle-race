@@ -14,6 +14,11 @@ composer install
 * Copy `.env.example` to `.env`
 * Update `.env` with your desired configuration values
 
+### Play
+```bash
+php game start
+```
+
 ### Dependencies
 This project uses the following dependencies:
 
