@@ -27,7 +27,6 @@ This project uses the following dependencies:
 * wp-cli/php-cli-tools
 * php-di/php-di
 * vlucas/phpdotenv
-* symfony/filesystem
 
 ### Development Dependencies
 * larapack/dd
